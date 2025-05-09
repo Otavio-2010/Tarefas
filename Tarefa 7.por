@@ -1,11 +1,11 @@
 programa
 {
-	inclua biblioteca Util -->u
+	inclua biblioteca Util-->u
 	
 	funcao inicio()
 	{
 		inteiro PS = 1300.0
-		real cotacao = 5.66
+		real cotacao = 5.66
 		real real1
 		real dolar
 		inteiro livros_ordem = 50
@@ -33,7 +33,7 @@ programa
 
 		 escreva("\nPara você comprar o PS5 no brasil,faltam: ", falta_br, " reais\n")
 
-           u.aguarde(2000)
+           u.aguarde(5000)
            limpa()
 
            escreva("Uma curiosidade:")
