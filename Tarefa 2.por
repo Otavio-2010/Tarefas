@@ -7,7 +7,7 @@ programa
 	   real media2
 	   real media3
 	   real media4
-	   inteiro media_final
+	   real media_final
 
 	   escreva("Qual foi sua Nota no primerio bimestre?")
 	   leia(media1)
